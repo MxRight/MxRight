@@ -26,7 +26,14 @@ PostgreSQL:
 
 Язык Си:
 * [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
-* [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop) 
+* [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop)
+
+DevOps:
+* [Docker + Dockle + Docker Compose](https://github.com/MxRight/Docker/tree/develop)
+
+Python:
+
+FastAPI:
 
 
 ## 📫 Контакты
