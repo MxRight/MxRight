@@ -6,9 +6,9 @@
 ## 💻 Технологии и инструменты
 **Языки:** C, Python  
 **Фреймворки:** FastAPI, Django  
-**Базы данных:** PostgreSQL  
+**Базы данных:** PostgreSQL, SQLite  
 **Библиотеки:** Pandas  
-**Прочее:** Git, Linux, Process Mining Advanced  
+**Прочее:** Git, Docker, Linux, Process Mining Advanced  
 
 ## ⚙️ Чем занимаюсь
 - Обучаюсь в **Школе 21 от Сбера**, где развиваю навыки командной разработки и архитектурного мышления.  
@@ -25,6 +25,7 @@ PostgreSQL:
 * [SQL_bootcamp](https://github.com/MxRight/SQL_bootcamp/tree/develop)
 
 Язык Си:
+* [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
 * [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop) 
 
 
