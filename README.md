@@ -27,22 +27,22 @@
 
 PostgreSQL:
 * [SQL_bootcamp](https://github.com/MxRight/SQL_bootcamp/tree/develop)
----
+  
 Язык Си:
 * [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
 * [Реализация библиотеки decimal.h](https://github.com/MxRight/c_decimal/tree/develop)
 * [Реализация библиотеки string.h с дополнениями](https://github.com/MxRight/c_string/tree/develop)
 * [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop)
----
+
 DevOps:
 * [CICD + Telegram bot](https://github.com/MxRight/CICD_tg_bot/tree/develop)
 * [Docker + Dockle + Docker Compose](https://github.com/MxRight/Docker/tree/develop)
----
+
 Python:
 * [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
----
+
 FastAPI:
 
----
+
 ## 📫 Контакты
 📍 GitHub: [github.com/MxRight](https://github.com/MxRight)
