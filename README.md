@@ -30,6 +30,7 @@ PostgreSQL:
 * [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop)
 ---
 DevOps:
+* [CICD + Telegram bot](https://github.com/MxRight/CICD_tg_bot/tree/develop)
 * [Docker + Dockle + Docker Compose](https://github.com/MxRight/Docker/tree/develop)
 ---
 Python:
