@@ -29,6 +29,7 @@ PostgreSQL:
 * [SQL_bootcamp](https://github.com/MxRight/SQL_bootcamp/tree/develop)
   
 Язык Си:
+* В разработке [Игра «Тетрис»]
 * [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
 * [Реализация библиотеки decimal.h](https://github.com/MxRight/c_decimal/tree/develop)
 * [Реализация библиотеки string.h с дополнениями](https://github.com/MxRight/c_string/tree/develop)
