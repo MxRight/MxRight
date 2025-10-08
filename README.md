@@ -33,6 +33,7 @@ DevOps:
 * [Docker + Dockle + Docker Compose](https://github.com/MxRight/Docker/tree/develop)
 
 Python:
+* [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
 
 FastAPI:
 
