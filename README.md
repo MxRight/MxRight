@@ -26,6 +26,7 @@ PostgreSQL:
 ---
 Язык Си:
 * [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
+* [Реализация библиотеки decimal.h](https://github.com/MxRight/c_decimal/tree/develop)
 * [Реализация библиотеки string.h с дополнениями](https://github.com/MxRight/c_string/tree/develop)
 * [Разработка утилит Bash по работе с текстом: cat, grep.](https://github.com/MxRight/cat_and_grep_utils/tree/develop)
 ---
