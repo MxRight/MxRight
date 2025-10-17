@@ -43,5 +43,6 @@ Python:
 FastAPI:
 
 
-## 📫 Контакты
-📍 GitHub: [github.com/MxRight](https://github.com/MxRight)
+## 📫 Контакты:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_right)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MxRight)
