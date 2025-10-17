@@ -41,7 +41,7 @@ Python:
 * [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
 
 FastAPI:
-
+* [Обновленный проект по FastAPI Coming soon!]()
 
 ## 📫 Контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_right)
