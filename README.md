@@ -10,7 +10,7 @@
 **Языки:** C, Python, Bash  
 **Фреймворки:** FastAPI, Django, Flask  
 **Базы данных:** PostgreSQL, SQLite  
-**Библиотеки:** Pandas  
+**Библиотеки:** aiohttp, pyTelegramBotAPI, BeautifulSoup4, Pandas и др.  
 **Прочее:** Git, Docker, Linux, Process Mining Advanced  
 
 ## 🏆 Участие в буткэмпах и хакатонах
