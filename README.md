@@ -23,6 +23,15 @@
 
 ## 📈 Мои проекты
 
+Python:
+* [Буткемп по Python](https://github.com/MxRight/APP1_Bootcamp):
+  - [Часть 1. Базовые задачи](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T01/src)
+  - [Часть 2. Мультипроцессорный экзамен и Асинхронный downloader](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T02/src)
+* [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
+
+FastAPI:
+* [Обновленный проект по FastAPI Coming soon!]
+
 PostgreSQL:
 * [SQL_bootcamp](https://github.com/MxRight/SQL_bootcamp/tree/develop)
   
@@ -36,15 +45,6 @@ PostgreSQL:
 DevOps:
 * [CICD + Telegram bot](https://github.com/MxRight/CICD_tg_bot/tree/develop)
 * [Docker + Dockle + Docker Compose](https://github.com/MxRight/Docker/tree/develop)
-
-Python:
-* [Буткемп по Python](https://github.com/MxRight/APP1_Bootcamp):
-  - [Часть 1. Базовые задачи](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T01/src)
-  - [Часть 2. Мультипроцессорный экзамен и Асинхронный downloader](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T02/src)
-* [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
-
-FastAPI:
-* [Обновленный проект по FastAPI Coming soon!]
 
 ## 📫 Контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_right)
