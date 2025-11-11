@@ -26,7 +26,8 @@
 Python:
 * [Буткемп по Python](https://github.com/MxRight/APP1_Bootcamp):
   - [Часть 1. Базовые задачи](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T01/src)
-  - [Часть 2. Мультипроцессорный экзамен и Асинхронный downloader](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T02/src)
+  - [Часть 2. Мультипроцессорный экзамен и асинхронный downloader](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T02/src)
+  - [Часть 3. Реализация игры Rogue]
 * [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
 
 FastAPI:
@@ -36,7 +37,6 @@ PostgreSQL:
 * [SQL_bootcamp](https://github.com/MxRight/SQL_bootcamp/tree/develop)
   
 Язык Си:
-* В разработке [Игра «Тетрис»]
 * [Реализация библиотеки matrix.h](https://github.com/MxRight/c_matrix/tree/develop)
 * [Реализация библиотеки decimal.h](https://github.com/MxRight/c_decimal/tree/develop)
 * [Реализация библиотеки string.h с дополнениями](https://github.com/MxRight/c_string/tree/develop)
