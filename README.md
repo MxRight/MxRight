@@ -27,7 +27,7 @@ Python:
 * [Буткемп по Python](https://github.com/MxRight/APP1_Bootcamp):
   - [Часть 1. Базовые задачи](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T01/src)
   - [Часть 2. Мультипроцессорный экзамен и асинхронный downloader](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-T02/src)
-  - [Часть 3. Реализация игры Rogue]
+  - [Часть 3. Реализация игры Rogue: under construction: 70% done](https://github.com/MxRight/APP1_Bootcamp/tree/develop/AP1-Py-P01/src)
 * [Буткемп по алгоритмам от Яндекс](https://github.com/MxRight/YA_trngs_algrtms_3.0_B)
 
 FastAPI:
